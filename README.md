@@ -1,9 +1,9 @@
-#La tarea se encuentra en la carpeta plantila-vue
+#### La tarea se encuentra en la carpeta plantila-vue
 
-##TBD-G6-T2
+### TBD-G6-T2
 
-##Taller 2 de TBD 2017, grupo 6 
-##Integrantes: Andrés Muñoz, Fernanda Muñoz, Sebastián Pinto-Agüero, Bastian Santana, Isaias Sánchez
+## Taller 2 de TBD 2017, grupo 6 
+### Integrantes: Andrés Muñoz, Fernanda Muñoz, Sebastián Pinto-Agüero, Bastian Santana, Isaias Sánchez
 
 # Plantilla para Vue
 ## Taller de Base de Datos
