@@ -2,6 +2,7 @@ import Vue from 'vue';
 import VueRouter from 'vue-router';
 import Index from './Index.vue';
 import Actors from './Actors.vue';
+import NuevoActor from './NuevoActor.vue';
 import VueResource from 'vue-resource';
 require("./style.scss");
 
@@ -10,7 +11,8 @@ Vue.use(VueRouter);
 Vue.use(VueResource);
 const routes = [
   { path: '/index', alias: '/', component: Index},
-  { path:'/actors', component: Actors}
+  { path: '/actors', component: Actors},
+  { path: '/nuevoActor', component: NuevoActor}
 ]
 
 // Create the router instance and pass the `routes` option
