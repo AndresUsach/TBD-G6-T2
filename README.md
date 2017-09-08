@@ -1,4 +1,5 @@
 #### La tarea se encuentra en la carpeta plantila-vue
+#### El puerto utilizado de localhost es :8085 (es necesario indicarlo en el CORS de la base de datos).
 
 ### TBD-G6-T2
 
